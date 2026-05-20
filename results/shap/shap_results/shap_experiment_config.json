@@ -1,0 +1,13 @@
+{
+    "model_name": "textattack/bert-base-uncased-SST-2",
+    "max_length": 8,
+    "class_names": [
+        "negative",
+        "positive"
+    ],
+    "n_sentences": 40,
+    "n_positive": 20,
+    "n_negative": 20,
+    "device": "cpu",
+    "output_dir": "shap_results"
+}
