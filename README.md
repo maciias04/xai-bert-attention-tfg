@@ -538,39 +538,39 @@ Los resultados obtenidos pueden resumirse en los siguientes puntos:
 
 ## PCA
 
-```markdown
+
 ![PCA scores](results/pca/pca_pc1vspc2.png)
-```
+
 
 ## oMEDA
 
-```markdown
+
 ![oMEDA importancia por capas](results/omeda/omeda_importanciaporcapa.png)
-```
+
 
 ## SHAP
 
-```markdown
-![SHAP tokens reales](results/shap/global_top_real_tokens_shap.png)
-```
+
+![SHAP tokens reales](results/shap/shap_results/plots/global_top_tokens_shap.png)
+
 
 ## PLS-DA
 
-```markdown
+
 ![PLS-DA scores](results/plsda/plsda_scores_lv1_lv2.png)
-```
+
 
 ## ASCA
 
-```markdown
-![ASCA importancia por capas](results/asca/asca_importance_by_layer.png)
-```
+
+![ASCA importancia por capas](results/asca/asca_importancia_layer.png)
+
 
 ## Comparación global
 
-```markdown
-![Comparación global por tokens](results/comparison/comparison_real_tokens_shap_omeda_plsda_asca.png)
-```
+
+![Comparación global por tokens](results/comparison/comparacion_tokens_reales_shap_omeda_plsda_asca.png)
+
 
 ---
 
