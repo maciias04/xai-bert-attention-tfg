@@ -539,13 +539,13 @@ Los resultados obtenidos pueden resumirse en los siguientes puntos:
 ## PCA
 
 ```markdown
-![PCA scores](results/pca/pca_scores_pc1_pc2.png)
+![PCA scores](results/pca/pca_pc1vspc2.png)
 ```
 
 ## oMEDA
 
 ```markdown
-![oMEDA importancia por capas](results/omeda/omeda_importance_by_layer.png)
+![oMEDA importancia por capas](results/omeda/omeda_importanciaporcapa.png)
 ```
 
 ## SHAP
