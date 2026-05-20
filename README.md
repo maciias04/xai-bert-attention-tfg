@@ -1,4 +1,3 @@
-# xai-bert-attention-tfg
 # Inteligencia Artificial Explicativa sobre BERT mediante mapas de atención, PCA, oMEDA, SHAP, PLS-DA y ASCA
 
 Repositorio asociado al Trabajo Fin de Grado:
