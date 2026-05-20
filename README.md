@@ -735,20 +735,6 @@ Universidad de Granada
 
 ---
 
-# Cómo citar este trabajo
-
-```bibtex
-@misc{macias2026xai,
-  author       = {Macias Caballero, Adrian},
-  title        = {Inteligencia Artificial Explicativa (XAI): Métodos y Prueba de Concepto},
-  year         = {2026},
-  institution  = {Universidad de Granada},
-  note         = {Trabajo Fin de Grado}
-}
-```
-
----
-
 # Licencia
 
 Este repositorio se distribuye con fines académicos y de investigación.
