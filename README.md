@@ -802,53 +802,56 @@ This script follows a simplified tutor-style workflow for checking the individua
 The main generated outputs are distributed across the following folders:
 
 ```text
-results/bert/
+results/
 ```
 
 BERT-related outputs, attention visualisations and model-level figures.
 
 ```text
-results/pca/
+results/bert/
 ```
 
 PCA plots and explained variance results.
 
 ```text
-results/omeda/
+results/pca/
 ```
 
 oMEDA importance plots and variable contribution figures.
 
 ```text
-results/pls-da/
+results/omeda/
 ```
 
 PLS-DA results, prediction plots, confusion matrix and coefficient-based importance.
 
 ```text
-results/asca/
+results/pls-da/
 ```
 
 ASCA class-effect results and importance plots.
 
 ```text
-results/shap/
+results/asca/
 ```
 
 SHAP explanations and token attribution outputs.
 
 ```text
-results/comparison/
+results/shap/
 ```
 
 Joint comparison between oMEDA, PLS-DA, ASCA and SHAP.
 
 ```text
-results/frase_individual_analisis/
+results/comparison/
 ```
 
 Individual sentence analysis figures.
 
+```text
+results/frase_individual_analisis/
+```
 ---
 
 ## Main findings
